@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "system",
+    "strict": true,
+    "removeComments": true,
+    "outFile": "../dist/objector.js"
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
